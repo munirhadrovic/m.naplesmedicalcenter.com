@@ -1138,19 +1138,19 @@ html body .ui-group-theme-b a {
 html .ui-bar-b a:visited,
 html .ui-body-b a:visited,
 html body .ui-group-theme-b a:visited {
-    color: #769C73 /*{b-link-visited}*/;
+    color: #523425  /*{b-link-visited}*/;
 }
 .ui-page-theme-b a:hover,
 html .ui-bar-b a:hover,
 html .ui-body-b a:hover,
 html body .ui-group-theme-b a:hover {
-	color: #769C73 /*{b-link-hover}*/;
+	color: #523425  /*{b-link-hover}*/;
 }
 .ui-page-theme-b a:active,
 html .ui-bar-b a:active,
 html .ui-body-b a:active,
 html body .ui-group-theme-b a:active {
-	color: #769C73 /*{b-link-active}*/;
+	color: #523425  /*{b-link-active}*/;
 }
 /* Button up */
 .ui-page-theme-b .ui-btn,
@@ -1459,7 +1459,7 @@ div.ui-mobile-viewport {
 }
 .ui-header .ui-title,
 .ui-footer .ui-title {
-	font-size: 1em;
+	font-size: 13px;
 	min-height: 1.1em;
 	text-align: center;
 	display: block;
